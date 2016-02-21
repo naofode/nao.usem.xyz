@@ -8,7 +8,7 @@ $db = new PDO($dsn, $dbuser, $dbpass);
 class Thrash {
 
 	// TODO: Porque é que 'static $url = "http://$site/";' não funciona?
-	static $url = "http://naofo.de/";
+	static $url = "http://nao.usem.xyz/";
 	static $image_storage_base = "prints/";
 	static $blocked_domains_regex = '/(uol.)|(folha.)/';
 
