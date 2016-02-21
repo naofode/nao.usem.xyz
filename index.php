@@ -141,7 +141,7 @@ if ($code) {
 
         <div class="footer-container">
             <footer class="wrapper">
-                <a href="https://github.com/naofode/naofo.de">código fonte</a>
+                <a href="https://github.com/naofode/nao.usem.xyz">código fonte</a>
                 &nbsp;&nbsp;-&nbsp;&nbsp;
                 <a title="botao <?php echo $site; ?>" href='javascript:var d=document,b=d.body,div=d.createElement("div");div.innerHTML="<form accept-charset=\"UTF-8\" action=\"http://<?php echo $site; ?>\" method=\"post\" target=\"_blank\"><input name=\"url\"><input name=\"title\"></form>";div.style.display="none";b.appendChild(div);var f=div.children[0];f["url"].value=window.location.href;f["title"].value=d.title;f.submit();' onclick="return false;">botão <?php echo $site; ?></a> (arraste para sua barra de favoritos e clique quando estiver na página que deseja encurtar)
             </footer>
